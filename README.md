@@ -13,7 +13,7 @@
     <img src="./assets/typescript.svg" width="20" /> Currently learning TypeScript
 </ul>
 <ul> 
-    📫 Reach me at <b>pankajkk218@gmail.com</b> 
+    📫 Reach me at <b><a href="mailto:pankajkk218@gmail.com">pankajkk218@gmail.com</a></b> 
 </ul>
 <br>
 
@@ -28,7 +28,7 @@
 <img height="50px" src="./assets/react.svg"></img>
 <img height="50px" src="./assets/django.svg"></img>
 <img height="50px" src="./assets/postgresql.svg"></img>
-<img height="50px" src="./assets/sklearn.svg"></img>
+<img height="50px" width="60px" src="./assets/sklearn.svg"></img>
 <img height="50px" width="60px" src="./assets/spacy.svg"></img>
 <img height = "50px" width="60px" src="./assets/go.svg"></img>
 <img height="50px" src="./assets/docker.svg"></img>
