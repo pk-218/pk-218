@@ -42,7 +42,7 @@
 
 <p float="left">
   <img src="https://github.com/pk-218/github-stats/blob/master/generated/overview.svg" width="295" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk-218&layout=compact&theme=tokyonight" width="359" /> 
+  <img src="http://github-readme-stats-pk-218.vercel.app/api/top-langs/?username=pk-218&layout=compact&theme=tokyonight" width="359" /> 
 </p>
 
 <br>
