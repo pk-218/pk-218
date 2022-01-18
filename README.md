@@ -25,6 +25,7 @@
 <img height="60px" src="./assets/kotlin-android.svg"></img>
 <img height="50px" src="./assets/html.svg"></img>
 <img height="50px" width="60px" src="./assets/sass.svg"></img>
+<img width="70px" src="./assets/nodejs.png"></img>
 <img height="50px" src="./assets/react.svg"></img>
 <img height="50px" src="./assets/django.svg"></img>
 <img height="50px" src="./assets/postgresql.svg"></img>
