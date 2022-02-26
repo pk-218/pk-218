@@ -4,13 +4,13 @@
 
 <br>
 <ul> 
-    👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Insitute 
+    👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Institute 
 </ul>
 <ul> 
-    📰 Currently contributing to the <a href="https://github.com/DSC-VJTI/Android-Study-Jam-App"> Android Study Jams News App </a> 
+    📰 Currently contributing to the <a href="https://github.com/DSC-VJTI/Android-Study-Jam-App">Android Study Jams News App</a> 
 </ul> 
 <ul> 
-    <img src="./assets/typescript.svg" width="20" /> Currently learning TypeScript
+    <img src="./assets/typescript.svg" width="20" alt="TypeScript" /> Currently learning TypeScript
 </ul>
 <ul> 
     📫 Reach me at <b><a href="mailto:pankajkk218@gmail.com">pankajkk218@gmail.com</a></b> 
@@ -19,20 +19,20 @@
 
 <h2>🛠 Languages and Tools</h2>
 
-<img height="50px" src="./assets/python.svg"></img>
-<img height="50px" src="./assets/java.svg"></img>
-<img height="50px" src="./assets/javascript.svg"></img>
-<img height="60px" src="./assets/kotlin-android.svg"></img>
-<img height="50px" src="./assets/html.svg"></img>
-<img height="50px" width="60px" src="./assets/sass.svg"></img>
-<img width="70px" src="./assets/nodejs.png"></img>
-<img height="50px" src="./assets/react.svg"></img>
-<img height="50px" src="./assets/django.svg"></img>
-<img height="50px" src="./assets/postgresql.svg"></img>
-<img height="50px" width="60px" src="./assets/sklearn.svg"></img>
-<img height="50px" width="60px" src="./assets/spacy.svg"></img>
-<img height = "50px" width="60px" src="./assets/go.svg"></img>
-<img height="50px" src="./assets/docker.svg"></img>
+<img height="50px" src="./assets/python.svg" alt="Python"></img>
+<img height="50px" src="./assets/java.svg" alt="Java"></img>
+<img height="50px" src="./assets/javascript.svg" alt="JavaScript"></img>
+<img height="60px" src="./assets/kotlin-android.svg" alt="Kotlin Android"></img>
+<img height="50px" src="./assets/html.svg" alt="HTML"></img>
+<img height="50px" width="60px" src="./assets/sass.svg" alt="SASS"></img>
+<img width="70px" src="./assets/nodejs.png" alt="NodeJS"></img>
+<img height="50px" src="./assets/react.svg" alt="ReactJS"></img>
+<img height="50px" src="./assets/django.svg" alt="Django"></img>
+<img height="50px" src="./assets/postgresql.svg" alt="PostgreSQL"></img>
+<img height="50px" width="60px" src="./assets/sklearn.svg" alt="scikit-learn"></img>
+<img height="50px" width="60px" src="./assets/spacy.svg" alt="SpaCy"></img>
+<img height ="50px" width="60px" src="./assets/go.svg" alt="Go"></img>
+<img height="50px" src="./assets/docker.svg" alt="Docker"></img>
 
 <br>
 
