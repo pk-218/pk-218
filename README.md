@@ -7,10 +7,10 @@
     👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Insitute 
 </ul>
 <ul> 
-    📰 Currently contributing to the <a href="https://github.com/DSC-VJTI/Android-Study-Jam-App"> Android Study Jams News App </a> 
+    🛠︎ Currently revamping the <a href="https://github.com/pk-218/NoteKeeper"> NoteKeeper</a> backend using NestJS
 </ul> 
 <ul> 
-    <img src="./assets/typescript.svg" width="20" /> Currently learning TypeScript
+    <img src="./assets/solidity.svg" height="20" width="20" /> Currently learning Solidity
 </ul>
 <ul> 
     📫 Reach me at <b><a href="mailto:pankajkk218@gmail.com">pankajkk218@gmail.com</a></b> 
@@ -21,7 +21,8 @@
 
 <img height="50px" src="./assets/python.svg"></img>
 <img height="50px" src="./assets/java.svg"></img>
-<img height="50px" src="./assets/javascript.svg"></img>
+<img height="45px" src="./assets/javascript.svg"></img>
+<img height="45px" src="./assets/typescript.svg"></img>
 <img height="60px" src="./assets/kotlin-android.svg"></img>
 <img height="50px" src="./assets/html.svg"></img>
 <img height="50px" width="60px" src="./assets/sass.svg"></img>
