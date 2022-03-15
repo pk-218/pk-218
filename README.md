@@ -4,7 +4,7 @@
 
 <br>
 <ul> 
-    👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Insitute 
+    👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Institute 
 </ul>
 <ul> 
     🛠︎ Currently revamping the <a href="https://github.com/pk-218/NoteKeeper"> NoteKeeper</a> backend using NestJS
