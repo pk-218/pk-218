@@ -7,11 +7,11 @@
     👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Institute 
 </ul>
 <ul> 
+    ☁️ Currently building <a href="https://github.com/DSC-VJTI/a-z-cloud"> A-Z Cloud</a> 
+</ul>
+<ul> 
     🛠︎ Currently revamping the <a href="https://github.com/pk-218/NoteKeeper"> NoteKeeper</a> backend using NestJS
 </ul> 
-<ul> 
-    <img src="./assets/solidity.svg" height="20" width="20" /> Currently learning Solidity
-</ul>
 <ul> 
     📫 Reach me at <b><a href="mailto:pankajkk218@gmail.com">pankajkk218@gmail.com</a></b> 
 </ul>
@@ -19,6 +19,7 @@
 
 <h2>🛠 Languages and Tools</h2>
 
+<img height="50px" src="./assets/cpp.svg"></img>
 <img height="50px" src="./assets/python.svg"></img>
 <img height="50px" src="./assets/java.svg"></img>
 <img height="45px" src="./assets/javascript.svg"></img>
