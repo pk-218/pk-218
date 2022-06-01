@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Pankaj Khushalani
-<img src="./assets/waving-hand.gif" width="30px">
+<img src="./assets/waving-hand.gif" width="5%" height="5%">
 </h1>
 
 <br>
