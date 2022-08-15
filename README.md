@@ -4,7 +4,7 @@
 
 <br>
 <ul> 
-    👨🏻‍💻 Third Year Student of Information Technology at Veermata Jijabai Technological Institute 
+    👨🏻‍💻 Final Year Student of Information Technology at Veermata Jijabai Technological Institute 
 </ul>
 <ul> 
     ☁️ Currently building <a href="https://github.com/DSC-VJTI/a-z-cloud"> A-Z Cloud</a> 
