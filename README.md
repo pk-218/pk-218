@@ -20,9 +20,9 @@
 <h2>🛠 Languages and Tools</h2>
 
 
-<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt"C++"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python"></img>
-<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt"Java"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin"></img>
