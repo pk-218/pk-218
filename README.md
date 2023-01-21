@@ -19,22 +19,22 @@
 
 <h2>🛠 Languages and Tools</h2>
 
-<img height="50px" src="./assets/cpp.svg"></img>
-<img height="50px" src="./assets/python.svg"></img>
-<img height="50px" src="./assets/java.svg"></img>
-<img height="45px" src="./assets/javascript.svg"></img>
-<img height="45px" src="./assets/typescript.svg"></img>
-<img height="60px" src="./assets/kotlin-android.svg"></img>
-<img height="50px" src="./assets/html.svg"></img>
-<img height="50px" width="60px" src="./assets/sass.svg"></img>
-<img width="70px" src="./assets/nodejs.png"></img>
-<img height="50px" src="./assets/react.svg"></img>
-<img height="50px" src="./assets/django.svg"></img>
-<img height="50px" src="./assets/postgresql.svg"></img>
-<img height="50px" width="60px" src="./assets/sklearn.svg"></img>
-<img height="50px" width="60px" src="./assets/spacy.svg"></img>
-<img height = "50px" width="60px" src="./assets/go.svg"></img>
-<img height="50px" src="./assets/docker.svg"></img>
+
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt"C++"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt"Java"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/html.svg" alt="HTML"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node.js"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React.js"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Go"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/docker.svg" alt="Docker"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes"></img>
 
 <br>
 
