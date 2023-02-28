@@ -7,10 +7,10 @@
     👨🏻‍💻 Final Year Student of Information Technology at Veermata Jijabai Technological Institute 
 </ul>
 <ul> 
-    ☁️ Currently building <a href="https://github.com/DSC-VJTI/a-z-cloud"> A-Z Cloud</a> 
+    ⚙️ Currently messing with Rust for building <a href="https://github.com/pk-218/aegis-node">AEGIS</a> 
 </ul>
 <ul> 
-    🛠︎ Currently revamping the <a href="https://github.com/pk-218/NoteKeeper"> NoteKeeper</a> backend using NestJS
+    🛠︎ Building <a href="https://github.com/pk-218/envoy">Envoy</a> with Compose Desktop
 </ul> 
 <ul> 
     📫 Reach me at <b><a href="mailto:pankajkk218@gmail.com">pankajkk218@gmail.com</a></b> 
@@ -18,7 +18,6 @@
 <br>
 
 <h2>🛠 Languages and Tools</h2>
-
 
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python"></img>
@@ -49,6 +48,7 @@
 <br>
 
 ## 💻 Let's Connect
+
 <p>
 <a href="https://twitter.com/pankajk_21" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
