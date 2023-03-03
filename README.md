@@ -25,7 +25,7 @@
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/typescript.svg" alt="Typescript"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin"></img>
-<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/html.svg" alt="HTML"></img>
+<img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node.js"></img>
 <img height="50px" width="50px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React.js"></img>
